@@ -1,0 +1,64 @@
+<!html code>
+<html>
+    <!--adding head-->
+    <head>
+        <!--adding css for background-->
+        <title>login form</title>
+        <style>
+            body {background-color: lightgrey}
+            h1 {color: azure}
+            p {color: aliceblue}
+        </style>
+        <!--ending css-->
+    </head>
+    <!--ending head-->
+        <body>
+            
+            <form>
+                <!--1st field begins-->
+                <fieldset>
+                    <legend>Your Details::</legend>
+                    Name: <input type="text"><br>
+                    Email: <input type="text"><br>
+                </fieldset>
+                <!--ending first field-->
+            </form>
+            
+            <form>
+                <!--second field begins-->
+                <fieldset>
+                    <legend> Your Review </legend>
+                    
+                        <p style="color: blue">How did you hear about us?
+                            <!--drop down list begins-->
+                            <select>
+                                <option value="Google">Google</option>
+                                <option value="Whatsapp">Whatsapp</option>
+                                <option value="Facebook">Facebook</option>
+                                <option value="Other">Other</option>
+                            </select>
+                            <!--drop down list stops-->
+                       </p>  
+                       <p style="color: blue">Would you visit again</p>
+                    
+                            <!--checklist begins-->
+                            <input type="radio" name="visit" value="yes" checked> Yes
+                            <input type="radio" name="visit" value="no"> No
+                            <input type="radio" name="visit" value="maybe"> Maybe<br>
+                            <!--check list ends-->
+                      <p style="color: blue">Comment:</p>
+                          <!--text area,check list,button-->
+                          <textarea rows="8" cols="40"></textarea><br>
+                          
+ 
+                                <input type="checkbox">Sighn me up for email update<br>
+ 
+                                <input type="submit" value='Submit review' name="Submit review">
+                           <!--text area,check list,button end here st-->
+                </fieldset>
+                <!--second field ends-->
+            </form>
+    
+        </body>
+
+</html>
