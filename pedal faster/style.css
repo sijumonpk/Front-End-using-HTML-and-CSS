@@ -1,0 +1,105 @@
+body {
+    background-image: url(bg.jpg);
+
+}
+
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: red;
+    float: left;
+    background-image: url(bg-header.jpg);
+    margin-top: -10px;
+
+}
+
+.b1 {
+    clear: both;
+    width: 20%;
+    height: 750px;
+    float: left;
+    background-color: green;
+    background-image: url(bg.jpg)
+}
+
+.b2 {
+    width: 60%;
+    height: 430px;
+    float: left;
+    background-image: url(bg.jpg)
+}
+
+.b3 {
+    width: 20%;
+    height: 750px;
+    float: left;
+    background-color: yellow;
+    background-image: url(bg.jpg);
+
+
+
+}
+
+.btmcnt {
+    width: 30%;
+    height: 100px;
+    margin-bottom: 20px;
+    background-color: aqua;
+
+}
+
+
+.footer {
+    clear: both;
+    width: 100%;
+    width: 100%;
+    height: 40px;
+    float: left;
+    background-image: url(bg-header.jpg);
+}
+
+#fixed {
+    float: right;
+    margin-top: -48%;
+    color: white;
+    font-size: 30px;
+
+}
+
+#para {
+    font-size: 75%;
+    position: relative;
+    float: right;
+    margin-top: -28%;
+    font-size: 70%;
+    color: white;
+
+}
+
+d1 {
+    float: left;
+    width: 194px;
+    height 100px;
+    background-color: red;
+}
+
+d2 {
+    float: left;
+    width: 200px height 100px;
+    background-color: red;
+
+}
+
+d3 {
+    float: left;
+    width: 200px height 100px;
+    background-color: red;
+
+}
+
+d4 {
+    float: left;
+    width: 200px height 100px;
+    background-color: red;
+
+}
