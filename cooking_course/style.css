@@ -1,0 +1,51 @@
+body{
+    background-image: url(dark-wood.jpg)
+}
+#head{
+    background-color: red;
+    color:white;
+    text-align: center;
+    padding: 30px;
+    width: 62%;
+    height: 20.5%;
+    background-image: url(header.jpg);
+    color: aliceblue;
+    
+}
+#row1{
+    line-height: 40px;
+    background-color: white;
+    height: 500px;
+    width: 22.2%;
+    float: left;
+    padding: 0px;
+    margin-left: 18.8%
+}
+#row2{
+    line-height: 40px;
+    background-color: white;
+    height: 500px;
+    width: 20%;
+    float: left;
+    padding: 5px;
+    
+}
+#row3{
+    line-height: 40px;
+    background-color: white;
+    height: 500px;
+    width: 20%;
+    float: left;
+    padding: 5px;
+    
+}
+#foot{
+    background-color: gray;
+    color:white;
+    text-align: center;
+    padding: 6px;
+    clear: both;
+    width: 62.3%;
+    text-align: left;
+    
+}
