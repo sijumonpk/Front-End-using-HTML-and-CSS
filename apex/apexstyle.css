@@ -1,0 +1,169 @@
+.head {
+    background-image: url(Cover%20of%20apex.JPG);
+    background-position: right;
+    background-repeat: no-repeat;
+    height: 70%;
+    margin-left: 6%;
+}
+
+#caption {
+    font-size: 60px;
+    color: red;
+    margin-top: 7%;
+}
+
+#p1 {
+    font-size: 20;
+    padding: 2px;
+}
+
+
+.left {
+    width: 70%;
+    height: 300px;
+    background-color: ;
+    text-align: center;
+    float: left;
+    margin-top: 4%;
+
+}
+
+.picture1 {
+    float: left;
+    flex: auto;
+    width: 30%;
+    height: 40%;
+    background-color: gainsboro;
+    margin-left: 8%;
+}
+
+.lrtxt {
+
+    float: left;
+    width: 55%;
+    height: 40%;
+    background-color: gainsboro;
+    flex: auto;
+
+}
+
+.paheader {
+    width: 100%;
+    height: 15%;
+    background-color: ;
+
+}
+
+#pah1 {
+    float: left;
+    font-size: 200%;
+    margin-right: 5%;
+    position: absolute;
+    margin-left: 5%;
+}
+
+#pah2 {
+
+    float: right;
+    font-size: 200%;
+    margin-left: 77%;
+    position: absolute;
+
+
+}
+
+.right {
+    width: 30%;
+    background-color: white;
+    height: 60%;
+    float: left;
+    margin-top: -5%;
+
+
+}
+
+
+.rrow {
+    float: left;
+    width: 100%;
+    height: 50%;
+    background-color: gainsboro;
+    flex: auto;
+    margin-top: 16%;
+
+}
+
+.content {
+    width: 100%;
+    height: 130%;
+
+
+}
+
+.cleft {
+    width: 40%;
+    height: 57.6%;
+    background-color: white;
+    float: left;
+    margin-left: 6%;
+
+}
+
+.cright {
+    width: 54%;
+    height: 57.6%;
+    float: left;
+    background-image: url(the%20image.png);
+    background-position: right;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    flex: auto;
+
+}
+
+.boxx {
+    width: 70%;
+    height: 87%;
+    background-color: beige;
+    margin-left: 8%;
+}
+
+.frame {
+    width 100%;
+    height: 29%;
+
+}
+
+.btmlft {
+    width: 57%;
+    height: 45%;
+    background-color: white;
+    margin-top: 8%;
+    margin-left: 6%;
+    float: left;
+}
+
+.btmlfrigt {
+    width: 20%;
+    height: 45%;
+    background-color: white;
+    margin-top: 8%;
+    float: left;
+    font-size: 115%;
+}htm
+
+.btmlst {
+    float: left;
+    width: 17%;
+    height: 45%;
+    background-color: white;
+    margin-top: 8%;
+
+}
+
+.last {
+    width: 100%;
+    height: 25%;
+    background-color: white;
+
+}
