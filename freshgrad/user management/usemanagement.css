@@ -1,0 +1,145 @@
+body {
+    box-sizing: border-box;
+}
+
+#left {
+
+    background-color: black;
+    width: 20%;
+    height: 105%;
+    float: left;
+    color: white;
+
+
+}
+
+#right {
+
+    background-color: white;
+    width: 80%;
+    height: 100%;
+    float: left;
+    margin-right: 0px;
+}
+
+form {
+    padding: 10px;
+    color: white;
+}
+
+form a {
+    text-decoration: none;
+    font-size: 20px;
+    line-height: 20px;
+    color: white;
+}
+
+form a:hover {
+    color: green;
+}
+
+header {
+
+    background-color: white;
+    height: 10%
+}
+
+.upperlftbtn {
+    padding: 20px;
+
+}
+
+.upperlftbtn button {
+    height: 55%;
+    width: 10%;
+}
+
+
+.b3 select {
+    position: absolute;
+    left: 65%;
+    top: 3.5%;
+    background-color: green;
+    border: none;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.b3 select:hover {
+    background-color: white;
+    color: black;
+}
+
+.b4 select {
+    position: absolute;
+    left: 80%;
+    top: 3.5%;
+    background-color: green;
+    border: none;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.b4 select:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+.bgmenu {
+    padding: 9px;
+}
+
+.bgmenu button {
+    width: 32.3%;
+    height: 7%;
+
+}
+
+.bgmenu button a {
+    text-decoration: none;
+}
+
+
+input[type=search] {
+    padding: 8px;
+    margin-top: 24px;
+    border-radius: 10px;
+}
+
+#list {
+    float: center;
+    margin-left: 70%;
+}
+
+
+
+
+table,
+td,
+th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 97%;
+    margin-top: 7px;
+    margin-right: 15%;
+}
+
+th {
+    height: 50px;
+}
